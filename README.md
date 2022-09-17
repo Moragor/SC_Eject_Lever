@@ -1,11 +1,15 @@
-# SC_Eject_Lever
+# Star Citizen Eject Lever
 Eject lever for Star Citizen and other space/flight sims. It's designed to go under a DX Racer Sentinel gaming chair, to see if the bracket fits to your chair check "bracket_dimensions" in the picture folder. I included the .step file for the parts in the 3D_Files folder so you can adjust it when needed.
 
 ## Parts links
 [TinyPico](https://www.tinypico.com/buy)
+
 [M3 Threaded Inserts](https://www.cnckitchen.com/shop#!/Gewindeeinsatz-threaded-insert-M3-Standard-100-Stk-pcs/p/431146823/category=0)
+
 [Microswitches](https://www.aliexpress.com/item/1926553469.html) 1x Without Lever NO-NC, 1x 16mm Lever
+
 [Remove before flight flags](https://www.aliexpress.com/item/32944985653.html)
+
 Other parts: Generic split pin with aprox. 3.75mm diameter, 1S LiPo battery **with** protection circuit (2000mAh in my case), 10mm diameter bungee cord, 2x M3x8mm countersunk screws, 10x M3x10mm screws with any head (screws can be slightly longer), 4x M3 Nut, 30x12x"Z"mm Neodymium magnets (The "Z" height of the magnet depends on what you can get, I'm using 4mm high magnets rated at 6.8kg strength, but I had to use two magnets per "slot" for it to hold. There are 8 slots that have to be populated.)
 
 ## Printing and Assembly
