@@ -4,7 +4,7 @@ Eject lever for Star Citizen and other space/flight sims. It's designed to go un
 ## Parts links
 [TinyPico](https://www.tinypico.com/buy)
 
-[M3 Threaded Inserts](https://www.cnckitchen.com/shop#!/Gewindeeinsatz-threaded-insert-M3-Standard-100-Stk-pcs/p/431146823/category=0)
+[M3 Threaded Inserts](https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces)
 
 [Microswitches](https://www.aliexpress.com/item/1926553469.html) 1x Without Lever NO-NC, 1x 16mm Lever
 
